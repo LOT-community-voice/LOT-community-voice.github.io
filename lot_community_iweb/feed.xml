@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  <id>urn:iweb:009BB5E8-7B01-49F5-BBB7-38FDA5220EA3</id>
  <title>Page list Atom feed</title>
- <updated>2017-08-05T23:53:32-07:00</updated>
+ <updated>2017-08-06T09:28:48-07:00</updated>
  <link rel="self" href="feed.xml"/>
  <generator>iWeb</generator>
  <author>
@@ -14,7 +14,7 @@
   <title xmlns="urn:iweb:">Community Voice of LOT</title>
   <in-navbar xmlns="urn:iweb:">E935E574-008C-4439-A3A3-B4E3BB26BAC8</in-navbar>
   <link rel="alternate" href="Community_Voice_of_LOT.html"/>
-  <updated>2017-08-05T23:53:32.001-07:00</updated>
+  <updated>2017-08-06T09:28:48.001-07:00</updated>
   <content>Community Voice of LOT</content>
  </entry>
 </feed>

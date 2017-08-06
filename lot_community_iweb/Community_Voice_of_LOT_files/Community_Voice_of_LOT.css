@@ -123,12 +123,12 @@
     background: transparent;
     opacity: 1.00;
 }
-.style_External_630_66 {
-    position: relative;
-}
 .style_SkipStroke_1 {
     background: rgb(255, 255, 255);
     opacity: 1.00;
+}
+.style_External_630_66 {
+    position: relative;
 }
 .paragraph_style_5 {
     color: rgb(88, 77, 77);
@@ -346,13 +346,13 @@
     background: transparent;
     opacity: 1.00;
 }
-.graphic_textbox_layout_style_default_External_584_346 {
-    position: relative;
-}
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_569_567 {
+.graphic_textbox_layout_style_default_External_584_365 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_609_593 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_414_32 {
